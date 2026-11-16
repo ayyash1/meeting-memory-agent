@@ -1,0 +1,15 @@
+{
+  "instructions": "Review each question against the original transcript files. Fill expected_answer, supporting_quotes, and verification_status manually before reporting scores.",
+  "questions": [
+    {"id":"CQ01","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ02","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ03","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ04","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ05","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ06","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ07","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ08","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ09","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"},
+    {"id":"CQ10","expected_answer":"","supporting_quotes":[],"verification_status":"needs_manual_review"}
+  ]
+}

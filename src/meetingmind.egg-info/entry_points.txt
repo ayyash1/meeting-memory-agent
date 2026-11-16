@@ -1,0 +1,2 @@
+[console_scripts]
+meetingmind = meetingmind.cli:main

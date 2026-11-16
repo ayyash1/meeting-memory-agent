@@ -1,0 +1,12 @@
+[
+  {"id":"CQ01","team":"TS3012","category":"decision evolution","question":"Which material did TS3012 discuss before its final material choice?"},
+  {"id":"CQ02","team":"TS3012","category":"cross-meeting commitment","question":"What budget or costing work was carried forward into TS3012's later meetings?"},
+  {"id":"CQ03","team":"ES2002","category":"speaker attribution","question":"Which speaker described their role as project manager in ES2002?"},
+  {"id":"CQ04","team":"IS1008","category":"action ownership","question":"Who was assigned to investigate a display-related cost in IS1008?"},
+  {"id":"CQ05","team":"ES2008","category":"disagreement tracking","question":"What objection was raised about the lost-remote feature in ES2008?"},
+  {"id":"CQ06","team":"TS3007","category":"design rationale","question":"Why did TS3007 reconsider its original power-source choice?"},
+  {"id":"CQ07","team":"ES2016","category":"historical change","question":"What component was removed when ES2016 addressed its budget?"},
+  {"id":"CQ08","team":"TS3010","category":"unresolved decision","question":"Which navigation control remained uncertain in an earlier TS3010 meeting?"},
+  {"id":"CQ09","team":"ES2009","category":"meeting comparison","question":"How did ES2009's touch-screen decision differ between early and final meetings?"},
+  {"id":"CQ10","team":"ES2011","category":"earlier discussion reference","question":"What requirement did ES2011 revisit after the project manager promised to check it?"}
+]
